@@ -1,0 +1,1 @@
+gitignore<br># 機密情報<br>.env<br><br># データファイル（巨大化や機密性のため）<br>*.csv<br>*.json<br><br># Python関連の環境ファイル<br>__pycache__/<br>*.pyc<br>
